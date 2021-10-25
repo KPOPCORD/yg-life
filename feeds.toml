@@ -1,0 +1,11 @@
+[hot-issue]
+title = "YG LIFE ─ HOT ISSUE"
+url = "https://yg-life.com/archives/category/hot-issue?lang=ko"
+entrySelector = "ul.hot_issue_list li"
+titleSelector = "h3.post-title"
+linkSelector = "a"
+contentSelector = "div.excerpt"
+dateSelector = "span.magz-meta"
+dateFormat = "yyyy.MM.dd hh:mm a"
+imageSelector = "div.post-thumb img"
+waitUntil = "networkidle"
