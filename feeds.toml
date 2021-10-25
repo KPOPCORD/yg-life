@@ -13,7 +13,7 @@ onFail = "stale"
 
 [musicvideo]
 title = "YG LIFE ─ YG TV"
-url = "https://yg-life.com/archives/category/hot-issue?lang=ko"
+url = "https://yg-life.com/archives/category/musicvideo?lang=ko"
 entrySelector = "div.post-archives.post-archives3 div[id^='post']"
 titleSelector = "h3.post-title"
 linkSelector = "h3.post-title a"
