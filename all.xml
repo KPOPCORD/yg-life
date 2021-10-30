@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 15:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/bd4d8946c5d8bb74a779428a34b420b4-e1633093247399.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[TREASURE – ‘나랑 있자 (BE WITH ME)’ HAPPY HALLOWEEN LIVE (YG LIFE ─ YG TV)]]></title>
+            <link>https://yg-life.com/archives/170855?lang=ko</link>
+            <guid>https://yg-life.com/archives/170855?lang=ko</guid>
+            <pubDate>Sat, 30 Oct 2021 15:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.31 00:00 am]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GEWJB1W9bl0/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TREASURE – [T.M.I] EP.19 PRIVATE STAGE ‘TEU-DAY’ Behind The Scenes (YG LIFE ─ YG TV)]]></title>
             <link>https://yg-life.com/archives/170683?lang=ko</link>
             <guid>https://yg-life.com/archives/170683?lang=ko</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 04 Aug 2021 12:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.04 12:00 pm]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LRg3NCchZog/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU – ‘BENCH (with Zion.T)’ OFFICIAL VIDEO (YG LIFE ─ YG TV)]]></title>
-            <link>https://yg-life.com/archives/169205?lang=ko</link>
-            <guid>https://yg-life.com/archives/169205?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02 00:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/PTYo1IdhuBA/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
