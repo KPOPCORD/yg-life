@@ -4,9 +4,17 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 12:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 13:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ TEASER]]></title>
+            <link>https://yg-life.com/archives/170978?lang=ko</link>
+            <guid>https://yg-life.com/archives/170978?lang=ko</guid>
+            <pubDate>Fri, 05 Nov 2021 13:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05 22:00 오후]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rkw9cxeTu7Q/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE – ‘나랑 있자 (BE WITH ME)’ HAPPY HALLOWEEN LIVE]]></title>
             <link>https://yg-life.com/archives/170855?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 05 Aug 2021 12:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.05 12:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/RBNwibVQ2Hw/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU – ‘째깍 째깍 째깍 (Tictoc Tictoc Tictoc)’ LIVE VIDEO with BEAKER]]></title>
-            <link>https://yg-life.com/archives/169225?lang=ko</link>
-            <guid>https://yg-life.com/archives/169225?lang=ko</guid>
-            <pubDate>Wed, 04 Aug 2021 12:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.04 12:00 오후]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LRg3NCchZog/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
