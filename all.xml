@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 12:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 13:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,7 +204,7 @@
             <link>https://yg-life.com/archives/171080?lang=ko</link>
             <guid>https://yg-life.com/archives/171080?lang=ko</guid>
             <pubDate>Fri, 12 Nov 2021 13:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.12 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/B6-E9DBhIXo/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
             <link>https://yg-life.com/archives/171015?lang=ko</link>
             <guid>https://yg-life.com/archives/171015?lang=ko</guid>
             <pubDate>Mon, 08 Nov 2021 13:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.08 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/x0m1rGSz9r8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +220,7 @@
             <link>https://yg-life.com/archives/170978?lang=ko</link>
             <guid>https://yg-life.com/archives/170978?lang=ko</guid>
             <pubDate>Fri, 05 Nov 2021 13:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.05 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/rkw9cxeTu7Q/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://yg-life.com/archives/170855?lang=ko</link>
             <guid>https://yg-life.com/archives/170855?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.31 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GEWJB1W9bl0/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://yg-life.com/archives/170683?lang=ko</link>
             <guid>https://yg-life.com/archives/170683?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.16 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.16 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/8If3OZ4nVVg/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://yg-life.com/archives/170654?lang=ko</link>
             <guid>https://yg-life.com/archives/170654?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.15 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3Itm7-jgNPg/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -252,7 +252,7 @@
             <link>https://yg-life.com/archives/170641?lang=ko</link>
             <guid>https://yg-life.com/archives/170641?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.15 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/b0JzTmsKrms/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -260,7 +260,7 @@
             <link>https://yg-life.com/archives/170591?lang=ko</link>
             <guid>https://yg-life.com/archives/170591?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.11 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.11 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fr-eHz87XoM/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -268,7 +268,7 @@
             <link>https://yg-life.com/archives/170374?lang=ko</link>
             <guid>https://yg-life.com/archives/170374?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.26 18:58 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.26 18:58 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/aEiznLJCb9o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -276,7 +276,7 @@
             <link>https://yg-life.com/archives/170266?lang=ko</link>
             <guid>https://yg-life.com/archives/170266?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.24 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dNCWe_6HAM8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@
             <link>https://yg-life.com/archives/170119?lang=ko</link>
             <guid>https://yg-life.com/archives/170119?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.17 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZJ6QQLDIzrI/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://yg-life.com/archives/170107?lang=ko</link>
             <guid>https://yg-life.com/archives/170107?lang=ko</guid>
             <pubDate>Thu, 16 Sep 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16 09:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.16 09:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/7UrRPh26dYI/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +300,7 @@
             <link>https://yg-life.com/archives/170053?lang=ko</link>
             <guid>https://yg-life.com/archives/170053?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.13 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/08x_TcTyw8o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +308,7 @@
             <link>https://yg-life.com/archives/169966?lang=ko</link>
             <guid>https://yg-life.com/archives/169966?lang=ko</guid>
             <pubDate>Sat, 11 Sep 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.11 09:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.11 09:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hSWKyrD1ofM/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +316,7 @@
             <link>https://yg-life.com/archives/169949?lang=ko</link>
             <guid>https://yg-life.com/archives/169949?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10 13:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.10 13:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/awkkyBH2zEo/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@
             <link>https://yg-life.com/archives/169849?lang=ko</link>
             <guid>https://yg-life.com/archives/169849?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.08 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/08MCd75frA8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://yg-life.com/archives/169750?lang=ko</link>
             <guid>https://yg-life.com/archives/169750?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.03 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FiLP0SQmVwk/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +340,7 @@
             <link>https://yg-life.com/archives/169717?lang=ko</link>
             <guid>https://yg-life.com/archives/169717?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.01 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LKSfLGtfrBA/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +348,7 @@
             <link>https://yg-life.com/archives/169665?lang=ko</link>
             <guid>https://yg-life.com/archives/169665?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.28 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.28 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/gCszAvYz1Go/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +356,7 @@
             <link>https://yg-life.com/archives/169499?lang=ko</link>
             <guid>https://yg-life.com/archives/169499?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.11 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.11 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1crM1I_z6Ok/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@
             <link>https://yg-life.com/archives/169444?lang=ko</link>
             <guid>https://yg-life.com/archives/169444?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.10 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.10 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HvzC6-remvQ/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +372,7 @@
             <link>https://yg-life.com/archives/169396?lang=ko</link>
             <guid>https://yg-life.com/archives/169396?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.08 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.08 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HlYMu0356WQ/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +380,7 @@
             <link>https://yg-life.com/archives/169358?lang=ko</link>
             <guid>https://yg-life.com/archives/169358?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.07 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.07 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/QnflVowapuQ/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://yg-life.com/archives/169324?lang=ko</link>
             <guid>https://yg-life.com/archives/169324?lang=ko</guid>
             <pubDate>Fri, 06 Aug 2021 12:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.06 12:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.06 12:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/zx_hdOM-JN4/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
