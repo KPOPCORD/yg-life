@@ -4,9 +4,17 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 12:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 13:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ EP.2]]></title>
+            <link>https://yg-life.com/archives/171172?lang=ko</link>
+            <guid>https://yg-life.com/archives/171172?lang=ko</guid>
+            <pubDate>Fri, 19 Nov 2021 13:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 22:00 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hgAdJixX5Uo/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ EP.1]]></title>
             <link>https://yg-life.com/archives/171080?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.07 00:00 am]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/QnflVowapuQ/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU – ‘낙하 (NAKKA)’ LIVE VIDEO with BEAKER]]></title>
-            <link>https://yg-life.com/archives/169324?lang=ko</link>
-            <guid>https://yg-life.com/archives/169324?lang=ko</guid>
-            <pubDate>Fri, 06 Aug 2021 12:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.06 12:00 pm]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zx_hdOM-JN4/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
