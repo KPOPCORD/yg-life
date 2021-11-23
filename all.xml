@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/01/510cad95d00bec47d96e430f1e9b6e43-e1609487527835.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MINO – VISUAL FILM #2 (YG LIFE ─ YG TV)]]></title>
+            <link>https://yg-life.com/archives/171314?lang=ko</link>
+            <guid>https://yg-life.com/archives/171314?lang=ko</guid>
+            <pubDate>Tue, 23 Nov 2021 15:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24 00:00 오전]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ScM7Qn9v_Cc/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MINO – VISUAL FILM #1 (YG LIFE ─ YG TV)]]></title>
             <link>https://yg-life.com/archives/171269?lang=ko</link>
             <guid>https://yg-life.com/archives/171269?lang=ko</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.10 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HvzC6-remvQ/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU – ‘EVEREST (with Sam Kim)’ OFFICIAL VIDEO (YG LIFE ─ YG TV)]]></title>
-            <link>https://yg-life.com/archives/169396?lang=ko</link>
-            <guid>https://yg-life.com/archives/169396?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.08 00:00 오전]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HlYMu0356WQ/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
