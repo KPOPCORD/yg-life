@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 06:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사 ‘MONEY’ 안무 영상 3억뷰 돌파…또 ‘최단 신기록’ (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171375?lang=ko</link>
+            <guid>https://yg-life.com/archives/171375?lang=ko</guid>
+            <pubDate>Mon, 29 Nov 2021 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[[MK스포츠=김나영 기자] 블랙핑크 리사가 안무 영상으로 유튜브에서 또 하나의 신기록을 갈아치웠다. 29일 YG엔터테인먼트에 따르면 리사의 솔로곡 ‘MONEY’ 익스클루시브 퍼포먼...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/a2fd0802de45b78474429b452fbaf42b-e1638105823762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크, 유튜브 구독자 7천만 명 돌파…전세계 아티스트 최초 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171372?lang=ko</link>
+            <guid>https://yg-life.com/archives/171372?lang=ko</guid>
+            <pubDate>Mon, 29 Nov 2021 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크(BLACKPINK)의 공식 유튜브 채널 구독자 수가&nbsp;7000만 명을 돌파했다. 전 세계 모든 아티스트를 통틀어 최초·최다 기록이다...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2020/12/b847b0ca921a07c00a708678c6425a01-e1606905183275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저 방예담, ‘소확행’ 가득한 일상 공개..힐링 에너지 ‘듬뿍’ (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171251?lang=ko</link>
@@ -184,27 +200,11 @@
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/139012e249b82a772e975285ad5e1513-e1635516369441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리사, 3억뷰 돌파…’LALISA’ 뮤비 조회수 최단 신기록 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170815?lang=ko</link>
-            <guid>https://yg-life.com/archives/170815?lang=ko</guid>
-            <pubDate>Fri, 29 Oct 2021 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[[더팩트=김샛별 기자] 그룹 블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 공개 48일 만에 3억 뷰를 돌파했다. YG엔터테인먼트는 27...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/1af4a13b6c23cc6225f30781b17ffd37-e1635299879876.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저 ‘오렌지’, 아이돌 최고 가을 감성 노래 1위 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170803?lang=ko</link>
-            <guid>https://yg-life.com/archives/170803?lang=ko</guid>
-            <pubDate>Thu, 28 Oct 2021 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=김수진 기자] 트레저의 ‘THE FIRST STEP : CHAPTER THREE’ 앨범 수록곡 ‘오렌지 (ORANGE)’가 글...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/01/510cad95d00bec47d96e430f1e9b6e43-e1609487527835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ EP.3 (YG LIFE ─ YG TV)]]></title>
             <link>https://yg-life.com/archives/171347?lang=ko</link>
             <guid>https://yg-life.com/archives/171347?lang=ko</guid>
             <pubDate>Fri, 26 Nov 2021 13:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.26 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/kbFXPZagin4/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
             <link>https://yg-life.com/archives/171314?lang=ko</link>
             <guid>https://yg-life.com/archives/171314?lang=ko</guid>
             <pubDate>Tue, 23 Nov 2021 15:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.24 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.24 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ScM7Qn9v_Cc/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +220,7 @@
             <link>https://yg-life.com/archives/171269?lang=ko</link>
             <guid>https://yg-life.com/archives/171269?lang=ko</guid>
             <pubDate>Mon, 22 Nov 2021 15:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.23 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/XfecZQtoOPc/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://yg-life.com/archives/171172?lang=ko</link>
             <guid>https://yg-life.com/archives/171172?lang=ko</guid>
             <pubDate>Fri, 19 Nov 2021 13:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.19 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hgAdJixX5Uo/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://yg-life.com/archives/171080?lang=ko</link>
             <guid>https://yg-life.com/archives/171080?lang=ko</guid>
             <pubDate>Fri, 12 Nov 2021 13:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.12 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/B6-E9DBhIXo/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://yg-life.com/archives/171015?lang=ko</link>
             <guid>https://yg-life.com/archives/171015?lang=ko</guid>
             <pubDate>Mon, 08 Nov 2021 13:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.08 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/x0m1rGSz9r8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -252,7 +252,7 @@
             <link>https://yg-life.com/archives/170978?lang=ko</link>
             <guid>https://yg-life.com/archives/170978?lang=ko</guid>
             <pubDate>Fri, 05 Nov 2021 13:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05 22:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.05 22:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/rkw9cxeTu7Q/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -260,7 +260,7 @@
             <link>https://yg-life.com/archives/170855?lang=ko</link>
             <guid>https://yg-life.com/archives/170855?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.31 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GEWJB1W9bl0/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -268,7 +268,7 @@
             <link>https://yg-life.com/archives/170683?lang=ko</link>
             <guid>https://yg-life.com/archives/170683?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.16 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.16 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/8If3OZ4nVVg/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -276,7 +276,7 @@
             <link>https://yg-life.com/archives/170654?lang=ko</link>
             <guid>https://yg-life.com/archives/170654?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.15 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3Itm7-jgNPg/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@
             <link>https://yg-life.com/archives/170641?lang=ko</link>
             <guid>https://yg-life.com/archives/170641?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 14:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.15 14:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/b0JzTmsKrms/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://yg-life.com/archives/170591?lang=ko</link>
             <guid>https://yg-life.com/archives/170591?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.11 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.11 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fr-eHz87XoM/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +300,7 @@
             <link>https://yg-life.com/archives/170374?lang=ko</link>
             <guid>https://yg-life.com/archives/170374?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.26 18:58 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.26 18:58 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/aEiznLJCb9o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +308,7 @@
             <link>https://yg-life.com/archives/170266?lang=ko</link>
             <guid>https://yg-life.com/archives/170266?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.24 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dNCWe_6HAM8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +316,7 @@
             <link>https://yg-life.com/archives/170119?lang=ko</link>
             <guid>https://yg-life.com/archives/170119?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.17 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZJ6QQLDIzrI/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@
             <link>https://yg-life.com/archives/170107?lang=ko</link>
             <guid>https://yg-life.com/archives/170107?lang=ko</guid>
             <pubDate>Thu, 16 Sep 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16 09:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.16 09:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/7UrRPh26dYI/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://yg-life.com/archives/170053?lang=ko</link>
             <guid>https://yg-life.com/archives/170053?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.13 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/08x_TcTyw8o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +340,7 @@
             <link>https://yg-life.com/archives/169966?lang=ko</link>
             <guid>https://yg-life.com/archives/169966?lang=ko</guid>
             <pubDate>Sat, 11 Sep 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.11 09:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.11 09:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hSWKyrD1ofM/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +348,7 @@
             <link>https://yg-life.com/archives/169949?lang=ko</link>
             <guid>https://yg-life.com/archives/169949?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10 13:00 pm]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.10 13:00 오후]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/awkkyBH2zEo/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +356,7 @@
             <link>https://yg-life.com/archives/169849?lang=ko</link>
             <guid>https://yg-life.com/archives/169849?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.08 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/08MCd75frA8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@
             <link>https://yg-life.com/archives/169750?lang=ko</link>
             <guid>https://yg-life.com/archives/169750?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.03 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FiLP0SQmVwk/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +372,7 @@
             <link>https://yg-life.com/archives/169717?lang=ko</link>
             <guid>https://yg-life.com/archives/169717?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.01 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LKSfLGtfrBA/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +380,7 @@
             <link>https://yg-life.com/archives/169665?lang=ko</link>
             <guid>https://yg-life.com/archives/169665?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.28 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.28 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/gCszAvYz1Go/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://yg-life.com/archives/169499?lang=ko</link>
             <guid>https://yg-life.com/archives/169499?lang=ko</guid>
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.11 00:00 am]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.11 00:00 오전]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1crM1I_z6Ok/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
