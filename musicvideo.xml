@@ -4,9 +4,17 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO – 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
+            <link>https://yg-life.com/archives/171480?lang=ko</link>
+            <guid>https://yg-life.com/archives/171480?lang=ko</guid>
+            <pubDate>Mon, 06 Dec 2021 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06 18:00 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/E3HqJJjUOm4/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO – 3rd FULL ALBUM [“TO INFINITY.”] HIGHLIGHT VERSE PREVIEW]]></title>
             <link>https://yg-life.com/archives/171460?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.08 00:00 am]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/08MCd75frA8/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – FIRST SINGLE ALBUM LALISA VISUAL TEASER #3]]></title>
-            <link>https://yg-life.com/archives/169750?lang=ko</link>
-            <guid>https://yg-life.com/archives/169750?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03 00:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FiLP0SQmVwk/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
