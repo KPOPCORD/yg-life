@@ -4,9 +4,17 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO – ‘탕!♡ (TANG!♡)’ M/V]]></title>
+            <link>https://yg-life.com/archives/171560?lang=ko</link>
+            <guid>https://yg-life.com/archives/171560?lang=ko</guid>
+            <pubDate>Tue, 07 Dec 2021 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07 18:00 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VAEEblk-qDU/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO – 3rd FULL ALBUM [“TO INFINITY.”] D-1]]></title>
             <link>https://yg-life.com/archives/171480?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.10 13:00 pm]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/awkkyBH2zEo/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – ‘LALISA’ M/V TEASER]]></title>
-            <link>https://yg-life.com/archives/169849?lang=ko</link>
-            <guid>https://yg-life.com/archives/169849?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08 00:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/08MCd75frA8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 신곡 녹음 현장 암시 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171564?lang=ko</link>
+            <guid>https://yg-life.com/archives/171564?lang=ko</guid>
+            <pubDate>Tue, 07 Dec 2021 09:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴=정희연 기자] YG 대형 그룹 트레저(TREASURE)의 신곡 녹음 현장이 암시돼 이들 컴백을 기다려온 글로벌 팬들을 환호하게 만들었다. 7일 YG엔터테인먼트 공식 SN...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/e7275faaf6f8fcd1fb25b1c087be8a3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송민호 컴백 D-1, 정규3집 맛보기 음원 공개..아티스트 진면목 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171469?lang=ko</link>
@@ -192,12 +200,12 @@
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/3dd27a3a51c4f51d4a6bff7e85587ccb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 리사 ‘MONEY’, 英 오피셜차트 4주 연속 역주행..인기 롱런 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170852?lang=ko</link>
-            <guid>https://yg-life.com/archives/170852?lang=ko</guid>
-            <pubDate>Sat, 30 Oct 2021 04:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 블랙핑크 리사의 솔로 앨범 수록곡 ‘MONEY’가 영국 오피셜 차트서 또 한 번 순위를 끌어올렸다. 29일(현지시간) 발표된 영...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MINO – ‘탕!♡ (TANG!♡)’ M/V (YG LIFE ─ YG TV)]]></title>
+            <link>https://yg-life.com/archives/171560?lang=ko</link>
+            <guid>https://yg-life.com/archives/171560?lang=ko</guid>
+            <pubDate>Tue, 07 Dec 2021 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07 18:00 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VAEEblk-qDU/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINO – 3rd FULL ALBUM [“TO INFINITY.”] D-1 (YG LIFE ─ YG TV)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.10 13:00 pm]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/awkkyBH2zEo/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – ‘LALISA’ M/V TEASER (YG LIFE ─ YG TV)]]></title>
-            <link>https://yg-life.com/archives/169849?lang=ko</link>
-            <guid>https://yg-life.com/archives/169849?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08 00:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/08MCd75frA8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
