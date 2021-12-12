@@ -4,9 +4,25 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 11:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 12:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINO – ‘탕!♡ (TANG!♡)’ 1212 SBS Inkigayo]]></title>
+            <link>https://yg-life.com/archives/171659?lang=ko</link>
+            <guid>https://yg-life.com/archives/171659?lang=ko</guid>
+            <pubDate>Sun, 12 Dec 2021 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.12 20:34 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iQhjW_iaksw/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINO – ‘LOVE IN DA CAR’ 1212 SBS Inkigayo]]></title>
+            <link>https://yg-life.com/archives/171652?lang=ko</link>
+            <guid>https://yg-life.com/archives/171652?lang=ko</guid>
+            <pubDate>Sun, 12 Dec 2021 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.12 20:34 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rMvN0z7JSeo/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ EP.5]]></title>
             <link>https://yg-life.com/archives/171630?lang=ko</link>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17 00:00 am]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZJ6QQLDIzrI/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – ‘LALISA’ JACKET MAKING FILM]]></title>
-            <link>https://yg-life.com/archives/170107?lang=ko</link>
-            <guid>https://yg-life.com/archives/170107?lang=ko</guid>
-            <pubDate>Thu, 16 Sep 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16 09:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7UrRPh26dYI/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – ‘LALISA’ SPECIAL STAGE]]></title>
-            <link>https://yg-life.com/archives/170053?lang=ko</link>
-            <guid>https://yg-life.com/archives/170053?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13 00:00 am]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/08x_TcTyw8o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
