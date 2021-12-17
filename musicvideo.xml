@@ -4,9 +4,17 @@
         <title>YG LIFE ─ YG TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 12:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 13:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TREASURE – WEB DRAMA ‘남고괴담’ EP.6]]></title>
+            <link>https://yg-life.com/archives/171772?lang=ko</link>
+            <guid>https://yg-life.com/archives/171772?lang=ko</guid>
+            <pubDate>Fri, 17 Dec 2021 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17 22:00 pm]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qWU3HOH8Z7s/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINO – ‘LOVE IN DA CAR’ SPECIAL VIDEO]]></title>
             <link>https://yg-life.com/archives/171757?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.11 00:00 am]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fr-eHz87XoM/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LISA – ‘LALISA’ 0926 SBS Inkigayo]]></title>
-            <link>https://yg-life.com/archives/170374?lang=ko</link>
-            <guid>https://yg-life.com/archives/170374?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 02:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.26 18:58 pm]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/aEiznLJCb9o/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
